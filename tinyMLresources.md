@@ -25,6 +25,7 @@ https://cms.tinyml.org/wp-content/uploads/summit2022/TinyML4D-improving-access-t
 ## Companies & Products
 
 https://www.edgeimpulse.com/
+https://twitter.com/EdgeImpulse
 
 Arduino
 
