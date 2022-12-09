@@ -25,6 +25,8 @@ https://cms.tinyml.org/wp-content/uploads/summit2022/TinyML4D-improving-access-t
 ## Companies & Products
 
 https://www.edgeimpulse.com/
+paper: https://www.edgeimpulse.com/blog/edge-impulse-partners-with-harvard-seas-to-release-academic-paper-edge-impulses-first-academic-paper
+
 https://twitter.com/EdgeImpulse
 
 Arduino
