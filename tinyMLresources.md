@@ -13,6 +13,11 @@ https://docs.edgeimpulse.com/docs
 
 UNIFEI course https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML-2021.2
 
+## Repositories etc
+
+https://www.tensorflow.org/hub
+TensorFlow Hub is a repository of trained machine learning models ready for fine-tuning and deployable anywhere. Reuse trained models like BERT and Faster R-CNN with just a few lines of code. 
+
 ## Organisations working with tinyML(4D)
 
 ICTP
