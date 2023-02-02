@@ -1,2 +1,5 @@
 # tinyML
-tinyML and other embedded ML / resources
+
+TinyML and other embedded ML
+
+A basic resource collection
