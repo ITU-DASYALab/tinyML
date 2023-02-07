@@ -2,4 +2,4 @@
 
 TinyML and other embedded ML
 
-A basic resource collection
+__This repo is no longer active - integrated into https://github.com/things-guide/things-guide-resources__
