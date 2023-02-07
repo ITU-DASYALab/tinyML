@@ -1,4 +1,9 @@
 
+__This repo is no longer active - integrated into https://github.com/things-guide/things-guide-resources__
+
+
+
+
 ## Foundations, Education
 
 https://www.tinyml.org/
